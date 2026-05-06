@@ -1,0 +1,30 @@
+{
+  "train_rows": 40,
+  "test_rows": 10,
+  "selected_model": "random_forest",
+  "mae": 1.996,
+  "rmse": 2.166,
+  "r2": 0.107,
+  "candidate_models": [
+    {
+      "name": "ridge",
+      "cv_mae_mean": 2.857,
+      "cv_mae_std": 0.654
+    },
+    {
+      "name": "gradient_boosting",
+      "cv_mae_mean": 2.664,
+      "cv_mae_std": 0.413
+    },
+    {
+      "name": "random_forest",
+      "cv_mae_mean": 2.469,
+      "cv_mae_std": 0.436
+    },
+    {
+      "name": "extra_trees",
+      "cv_mae_mean": 2.641,
+      "cv_mae_std": 0.783
+    }
+  ]
+}

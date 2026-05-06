@@ -1,0 +1,11 @@
+id_sejour,service,type_service,capacite_lits,specialite_medecin,ancienete_medecin,sexe,age,ville,mois,trimestre,nombre_examens,cout_total
+44,Service_1,Chirurgical,21,Specialite_1,11,M,20,Ville_5,1,1,4,2800.38
+36,Service_10,Medical,20,Specialite_2,7,M,32,Ville_3,1,1,5,2980.22
+21,Service_10,Medical,20,Specialite_3,13,F,23,Ville_5,1,1,4,1145.77
+28,Service_10,Medical,20,Specialite_3,3,F,22,Ville_2,1,1,3,1005.91
+10,Service_10,Medical,20,Specialite_4,9,F,29,Ville_5,1,1,5,1216.02
+8,Service_11,Chirurgical,21,Specialite_1,11,M,29,Ville_4,1,1,1,1737.51
+29,Service_12,Medical,22,Specialite_1,1,F,23,Ville_5,1,1,3,2745.06
+26,Service_13,Chirurgical,23,Specialite_1,6,M,19,Ville_2,1,1,1,803.46
+19,Service_13,Chirurgical,23,Specialite_4,4,M,28,Ville_1,1,1,3,2443.88
+34,Service_13,Chirurgical,23,Specialite_4,9,F,20,Ville_1,1,1,4,1310.92
